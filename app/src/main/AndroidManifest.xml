@@ -11,10 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Words"
         tools:ignore="AllowBackup">
-        <activity
-            android:name="com.TounsiFares.words.DetailActivity"
-            android:exported="false"
-            android:parentActivityName="com.TounsiFares.words.MainActivity" />
+
         <activity
             android:name="com.TounsiFares.words.MainActivity"
             android:exported="true">
